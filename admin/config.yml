@@ -1,0 +1,45 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets"
+public_folder: "assets"
+
+collections:
+  - name: "website"
+    label: "MON BUILDS Website"
+    files:
+      - label: "Website Content"
+        name: "site"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - label: "Hero"
+            name: "hero"
+            widget: "object"
+            fields:
+              - {label: "Eyebrow", name: "eyebrow", widget: "string"}
+              - {label: "Main Title", name: "title", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Hero Image", name: "image", widget: "image"}
+              - {label: "Hero Project Name", name: "project_name", widget: "string"}
+              - {label: "Hero Project Note", name: "project_note", widget: "string"}
+          - label: "Projects"
+            name: "projects"
+            widget: "list"
+            fields:
+              - {label: "Project ID", name: "id", widget: "string", hint: "Keep the existing ID unchanged"}
+              - {label: "Project Title", name: "title", widget: "string"}
+              - {label: "Project Category / Location", name: "eyebrow", widget: "string"}
+              - {label: "Description", name: "description", widget: "text"}
+              - {label: "Feature Image", name: "feature", widget: "image"}
+              - label: "Facts"
+                name: "facts"
+                widget: "list"
+                fields:
+                  - {label: "Label", name: "label", widget: "string"}
+                  - {label: "Value", name: "value", widget: "string"}
+              - label: "Gallery Images"
+                name: "images"
+                widget: "list"
+                field: {label: "Image", name: "image", widget: "image"}

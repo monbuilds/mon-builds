@@ -1,0 +1,169 @@
+{
+  "hero": {
+    "eyebrow": "MON Builds \u00b7 Greater Accra",
+    "title": "Build Your Tomorrow With Us",
+    "description": "We design and build exceptional spaces shaped by vision, functionality and a commitment to lasting quality.",
+    "image": "assets/belle-vie-hero.jpeg",
+    "project_name": "Belle Vie Heights",
+    "project_note": "Contemporary apartments"
+  },
+  "projects": [
+    {
+      "id": "adenta",
+      "title": "Adenta Town Houses",
+      "eyebrow": "Residential development \u00b7 Adenta, Greater Accra",
+      "description": "A contemporary four-bedroom townhouse development in Adenta, Greater Accra, designed for comfortable family living with practical spatial planning and a dedicated boys\u2019 quarters.",
+      "facts": [
+        {
+          "label": "Location",
+          "value": "Adenta, Greater Accra"
+        },
+        {
+          "label": "Bedrooms",
+          "value": "4 Bedrooms"
+        },
+        {
+          "label": "Accommodation",
+          "value": "Boys\u2019 Quarters"
+        },
+        {
+          "label": "Type",
+          "value": "Town House"
+        }
+      ],
+      "feature": "assets/adenta-front.jpeg",
+      "images": [
+        "assets/adenta-front.jpeg",
+        "assets/adenta-side.jpeg",
+        "assets/adenta-aerial.jpeg",
+        "assets/adenta-detail.jpeg"
+      ]
+    },
+    {
+      "id": "dynasty",
+      "title": "Dynasty Height",
+      "eyebrow": "Mixed apartment development \u00b7 Obojo, Greater Accra",
+      "description": "A contemporary apartment development in Obojo comprising a mix of one- and two-bedroom units, with a sky pool as a signature lifestyle amenity.",
+      "facts": [
+        {
+          "label": "Units",
+          "value": "1 & 2 Bedroom Apartments"
+        },
+        {
+          "label": "Key Feature",
+          "value": "Sky Pool"
+        },
+        {
+          "label": "Location",
+          "value": "Obojo, Greater Accra"
+        },
+        {
+          "label": "Type",
+          "value": "Mixed Apartment Development"
+        }
+      ],
+      "feature": "assets/deenasty-night.jpeg",
+      "images": [
+        "assets/deenasty-aerial.jpeg",
+        "assets/deenasty-night.jpeg",
+        "assets/deenasty-front.jpeg",
+        "assets/deenasty-pool.jpeg"
+      ]
+    },
+    {
+      "id": "annor",
+      "title": "Annor Residence",
+      "eyebrow": "Private residence \u00b7 Eastern Region",
+      "description": "An elegant eight-bedroom private residence on the hills in Ghana\u2019s Eastern Region, combining a contemporary interpretation of neoclassical architecture with generous family living spaces and resort-inspired outdoor amenities.",
+      "facts": [
+        {
+          "label": "Bedrooms",
+          "value": "8 Bedrooms"
+        },
+        {
+          "label": "Location",
+          "value": "Hillside, Eastern Region"
+        },
+        {
+          "label": "Architecture",
+          "value": "Contemporary Neoclassical"
+        },
+        {
+          "label": "Key Features",
+          "value": "2-Car Basement \u00b7 Pool \u00b7 Double-Volume Living"
+        }
+      ],
+      "feature": "assets/annor-1.jpg",
+      "images": [
+        "assets/annor-1.jpg",
+        "assets/annor-2.jpg",
+        "assets/annor-3.jpg",
+        "assets/annor-4.jpg"
+      ]
+    },
+    {
+      "id": "santeo",
+      "title": "Santeo Residences",
+      "eyebrow": "Mixed residential development \u00b7 Santeo",
+      "description": "A contemporary five-storey residential development in Santeo, Greater Accra. Floors 1\u20133 accommodate apartment units, while Floors 4\u20135 form an exclusive three-bedroom penthouse with a sky pool, bar, seating lounge and barbecue area.",
+      "facts": [
+        {
+          "label": "Building",
+          "value": "Five-Storey Development"
+        },
+        {
+          "label": "Floors 1\u20133",
+          "value": "Apartment Units"
+        },
+        {
+          "label": "Floors 4\u20135",
+          "value": "3-Bedroom Penthouse"
+        },
+        {
+          "label": "Signature Amenities",
+          "value": "Sky Pool \u00b7 Bar \u00b7 Lounge \u00b7 Barbecue"
+        }
+      ],
+      "feature": "assets/santeo-1.jpg",
+      "images": [
+        "assets/santeo-1.jpg",
+        "assets/santeo-2.jpg",
+        "assets/santeo-3.jpg",
+        "assets/santeo-4.jpg",
+        "assets/santeo-5.jpg"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "title": "The Modern Spa Bathroom",
+      "eyebrow": "Renovation & Interior Fit-Out \u00b7 Residential",
+      "description": "A luxury bathroom renovation designed around a calm, spa-inspired atmosphere. The project documents the journey from the existing bathroom through construction progress to the proposed design vision.",
+      "facts": [
+        {
+          "label": "Project Type",
+          "value": "Bathroom Renovation"
+        },
+        {
+          "label": "Design Style",
+          "value": "Modern Spa-Inspired"
+        },
+        {
+          "label": "Key Materials",
+          "value": "Timber \u00b7 Natural Stone"
+        },
+        {
+          "label": "Details",
+          "value": "Bespoke Vanity \u00b7 Freestanding Tub"
+        }
+      ],
+      "feature": "assets/bathroom-hero.jpeg",
+      "images": [
+        "assets/bathroom-hero.jpeg",
+        "assets/bathroom-existing.jpeg",
+        "assets/bathroom-construction-1.jpeg",
+        "assets/bathroom-construction-2.jpeg",
+        "assets/bathroom-progress.jpeg"
+      ]
+    }
+  ]
+}
